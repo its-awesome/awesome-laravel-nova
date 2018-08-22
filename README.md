@@ -29,6 +29,7 @@ Add yours to the list, make a PR!
 * [Nova Tinker Tool](https://github.com/beyondcode/nova-tinker-tool)
 * [Nova Laravel Update Card](https://github.com/beyondcode/nova-laravel-update-card)
 * [Nova Dashboard Card](https://novapackages.com/packages/6)
+* [Nova Laravel Update Card](https://github.com/beyondcode/nova-laravel-update-card)
 
 ## Articles and Tutorials
 * (2018-07-25) [Introducing Laravel Nova by Laravel News](https://laravel-news.com/laravel-nova)
@@ -36,6 +37,9 @@ Add yours to the list, make a PR!
 
 ## Templates
 Add yours to the list, make a PR!
+
+## Others
+* [Nova Package Skeleton Generator] (https://github.com/spatie/skeleton-nova-tool)
 
 ## Sites Running Nova
 Add yours to the list, make a PR!
