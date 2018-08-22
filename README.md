@@ -31,6 +31,7 @@ Add yours to the list, make a PR!
 ## Articles and Tutorials
 * (2018-07-25) [Introducing Laravel Nova by Laravel News](https://laravel-news.com/laravel-nova)
 * (2018-07-26) [Introducing Laravel Nova by Taylor Otwell](https://medium.com/@taylorotwell/introducing-laravel-nova-7df0c9f67273)
+* (2018-07-25) [Introducing Laravel Nova: A Tool for Building Admin Panels and Custom CMSes](https://mattstauffer.com/blog/introducing-laravel-nova-a-tool-for-building-admin-panels-and-custom-cmses)
 
 ## Templates
 Add yours to the list, make a PR!
