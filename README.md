@@ -26,6 +26,7 @@ Add yours to the list, make a PR!
 * [A Laravel Nova tool to backup your application](https://github.com/spatie/nova-backup-tool)
 * [A Laravel Nova tool to display the application log](https://github.com/spatie/nova-tail-tool)
 * [Nova Tinker Tool](https://github.com/beyondcode/nova-tinker-tool)
+* [Nova Laravel Update Card](https://github.com/beyondcode/nova-laravel-update-card)
 
 ## Articles and Tutorials
 * (2018-07-25) [Introducing Laravel Nova](https://laravel-news.com/laravel-nova)
