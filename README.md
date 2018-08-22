@@ -17,6 +17,7 @@ Have you found something that make Laravel Nova more awesome? Submit a PR and ad
 ## Essentials
 * [Nova Website](http://nova.laravel.com)
 * [Nova Documentation](http://nova.laravel.com/docs)
+* [Nova Package Website](https://novapackages.com/)
 
 ## Code Snippets
 Add yours to the list, make a PR!
@@ -27,6 +28,7 @@ Add yours to the list, make a PR!
 * [A Laravel Nova tool to display the application log](https://github.com/spatie/nova-tail-tool)
 * [Nova Tinker Tool](https://github.com/beyondcode/nova-tinker-tool)
 * [Nova Laravel Update Card](https://github.com/beyondcode/nova-laravel-update-card)
+* [Nova Dashboard Card](https://novapackages.com/packages/6)
 
 ## Articles and Tutorials
 * (2018-07-25) [Introducing Laravel Nova by Laravel News](https://laravel-news.com/laravel-nova)
