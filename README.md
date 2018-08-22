@@ -17,6 +17,7 @@ Have you found something that make Laravel Nova more awesome? Submit a PR and ad
 ## Essentials
 * [Nova Website](http://nova.laravel.com)
 * [Nova Documentation](http://nova.laravel.com/docs)
+* [Nova Package Website](https://novapackages.com/)
 
 ## Code Snippets
 Add yours to the list, make a PR!
@@ -27,14 +28,20 @@ Add yours to the list, make a PR!
 * [A Laravel Nova tool to display the application log](https://github.com/spatie/nova-tail-tool)
 * [Nova Tinker Tool](https://github.com/beyondcode/nova-tinker-tool)
 * [Nova Laravel Update Card](https://github.com/beyondcode/nova-laravel-update-card)
+* [Nova Dashboard Card](https://novapackages.com/packages/6)
+* [Nova Laravel Update Card](https://github.com/beyondcode/nova-laravel-update-card)
 
 ## Articles and Tutorials
 * (2018-07-25) [Introducing Laravel Nova by Laravel News](https://laravel-news.com/laravel-nova)
 * (2018-07-26) [Introducing Laravel Nova by Taylor Otwell](https://medium.com/@taylorotwell/introducing-laravel-nova-7df0c9f67273)
-* (2018-07-25) [Introducing Laravel Nova: A Tool for Building Admin Panels and Custom CMSes](https://mattstauffer.com/blog/introducing-laravel-nova-a-tool-for-building-admin-panels-and-custom-cmses)
+* (2018-08-22) [Getting Started With Laravel Nova](https://nick-basile.com/blog/post/getting-started-with-laravel-nova)
+* (2018-07-25) [Introducing Laravel Nova: A Tool for Building Admin Panels and Custom CMSes](https://mattstauffer.com/blog/introducing-laravel-nova-a-tool-for-building-admin-panels-and-custom-cmses/)
 
 ## Templates
 Add yours to the list, make a PR!
+
+## Others
+* [Nova Package Skeleton Generator] (https://github.com/spatie/skeleton-nova-tool)
 
 ## Sites Running Nova
 Add yours to the list, make a PR!
