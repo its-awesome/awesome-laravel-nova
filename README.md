@@ -29,7 +29,8 @@ Add yours to the list, make a PR!
 * [Nova Laravel Update Card](https://github.com/beyondcode/nova-laravel-update-card)
 
 ## Articles and Tutorials
-* (2018-07-25) [Introducing Laravel Nova](https://laravel-news.com/laravel-nova)
+* (2018-07-25) [Introducing Laravel Nova by Laravel News](https://laravel-news.com/laravel-nova)
+* (2018-07-26) [Introducing Laravel Nova by Taylor Otwell](https://medium.com/@taylorotwell/introducing-laravel-nova-7df0c9f67273)
 
 ## Templates
 Add yours to the list, make a PR!
