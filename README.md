@@ -17,7 +17,6 @@ Have you found something that make Laravel Nova more awesome? Submit a PR and ad
 ## Essentials
 * [Nova Website](http://nova.laravel.com)
 * [Nova Documentation](http://nova.laravel.com/docs)
-* [Nova on Laravel News](https://laravel-news.com/laravel-nova)
 
 ## Code Snippets
 Add yours to the list, make a PR!
