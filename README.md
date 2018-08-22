@@ -25,6 +25,7 @@ Add yours to the list, make a PR!
 * [Laravel Nova / Laravel Cashier](https://github.com/themsaid/nova-cashier-manager)
 * [A Laravel Nova tool to backup your application](https://github.com/spatie/nova-backup-tool)
 * [A Laravel Nova tool to display the application log](https://github.com/spatie/nova-tail-tool)
+* [Nova Tinker Tool](https://github.com/beyondcode/nova-tinker-tool)
 
 ## Articles and Tutorials
 * (2018-07-25) [Introducing Laravel Nova](https://laravel-news.com/laravel-nova)
