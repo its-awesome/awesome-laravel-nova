@@ -36,6 +36,9 @@ Add yours to the list, make a PR!
 * (2018-07-26) [Introducing Laravel Nova by Taylor Otwell](https://medium.com/@taylorotwell/introducing-laravel-nova-7df0c9f67273)
 * (2018-08-22) [Getting Started With Laravel Nova](https://nick-basile.com/blog/post/getting-started-with-laravel-nova)
 * (2018-07-25) [Introducing Laravel Nova: A Tool for Building Admin Panels and Custom CMSes](https://mattstauffer.com/blog/introducing-laravel-nova-a-tool-for-building-admin-panels-and-custom-cmses/)
+* (2018-08-23) [Installing Laravel Nova From a Private Repository](https://medium.com/@jimwright_93568/installing-laravel-nova-from-a-private-repository-11ed5e929d32)
+* (2018-08-22) [Common problems when setting up Laravel Nova](https://medium.com/@franz_40702/common-problems-when-setting-up-laravel-nova-fcd651731cc8)
+* (2018-08-23) [Deep Diving Laravel Nova](https://medium.com/@nickjbasile/deep-diving-laravel-nova-6eb413a081ee)
 
 ## Templates
 Add yours to the list, make a PR!
