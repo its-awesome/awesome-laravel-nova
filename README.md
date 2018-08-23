@@ -30,6 +30,9 @@ Add yours to the list, make a PR!
 * [Nova Laravel Update Card](https://github.com/beyondcode/nova-laravel-update-card)
 * [Nova Dashboard Card](https://novapackages.com/packages/6)
 * [Nova Laravel Update Card](https://github.com/beyondcode/nova-laravel-update-card)
+* [Maintenance Mode](https://novapackages.com/packages/8)
+* [Cache Management Card](https://novapackages.com/packages/9)
+* [Nova Package Discovery](https://novapackages.com/packages/10)
 
 ## Articles and Tutorials
 * (2018-07-25) [Introducing Laravel Nova by Laravel News](https://laravel-news.com/laravel-nova)
