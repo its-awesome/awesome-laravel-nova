@@ -47,7 +47,7 @@ Add yours to the list, make a PR!
 Add yours to the list, make a PR!
 
 ## Others
-* [Nova Package Skeleton Generator] (https://github.com/spatie/skeleton-nova-tool)
+* [Nova Package Skeleton Generator](https://github.com/spatie/skeleton-nova-tool)
 
 ## Sites Running Nova
 Add yours to the list, make a PR!
