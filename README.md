@@ -18,6 +18,7 @@ Have you found something that make Laravel Nova more awesome? Submit a PR and ad
 * [Nova Website](http://nova.laravel.com)
 * [Nova Documentation](http://nova.laravel.com/docs)
 * [Nova Package Website](https://novapackages.com/)
+* [Nova Issues Tracker](https://github.com/laravel/nova-issues)
 
 ## Code Snippets
 Add yours to the list, make a PR!
