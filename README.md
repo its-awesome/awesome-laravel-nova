@@ -35,6 +35,13 @@ Add yours to the list, make a PR!
 * [Cache Management Card](https://novapackages.com/packages/9)
 * [Nova Package Discovery](https://novapackages.com/packages/10)
 * [Nova Algolia Card](https://github.com/nicolasbeauvais/nova-algolia-card)
+* [Nova RSS Card](https://github.com/beyondcode/nova-rss-card)
+* [Nova Laravel News Cards](https://github.com/peterbrinck/nova-laravel-news)
+* [External URL Field](https://novapackages.com/packages/12)
+* [Nova Logs Tool](https://novapackages.com/packages/13)
+* [Nova System Information](https://novapackages.com/packages/14)
+* [Spatie Permission Tool](https://novapackages.com/packages/15)
+* [Laravel Nova Ban](https://novapackages.com/packages/16)
 
 ## Articles and Tutorials
 * (2018-07-25) [Introducing Laravel Nova by Laravel News](https://laravel-news.com/laravel-nova)
