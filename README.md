@@ -33,6 +33,7 @@ Add yours to the list, make a PR!
 * [Maintenance Mode](https://novapackages.com/packages/8)
 * [Cache Management Card](https://novapackages.com/packages/9)
 * [Nova Package Discovery](https://novapackages.com/packages/10)
+* [Nova Algolia Card](https://github.com/nicolasbeauvais/nova-algolia-card)
 
 ## Articles and Tutorials
 * (2018-07-25) [Introducing Laravel Nova by Laravel News](https://laravel-news.com/laravel-nova)
