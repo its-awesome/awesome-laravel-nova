@@ -52,6 +52,11 @@ Add yours to the list, make a PR!
 * (2018-08-22) [Common problems when setting up Laravel Nova](https://medium.com/@franz_40702/common-problems-when-setting-up-laravel-nova-fcd651731cc8)
 * (2018-08-23) [Deep Diving Laravel Nova](https://medium.com/@nickjbasile/deep-diving-laravel-nova-6eb413a081ee)
 
+## Videos
+* (2018-08-23) [Building my first Laravel Nova Package - Matt Stauffer] (https://www.youtube.com/watch?v=rgbdlVleH0M) 
+* (2018-08-23) [Building my first Laravel Nova Package (part 2) - Matt Stauffer] (https://www.youtube.com/watch?v=-Rmm2m_0f_Y) 
+* (2018-08-23) [Matt Stauffer Twitch] (https://www.twitch.tv/mattstauffer/videos/all)
+
 ## Templates
 Add yours to the list, make a PR!
 
