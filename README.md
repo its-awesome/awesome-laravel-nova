@@ -10,6 +10,7 @@ Have you found something that make Laravel Nova more awesome? Submit a PR and ad
 - [Code Snippets](#code-snippets)
 - [Packages](#packages)
 - [Articles and Tutorials](#articles-and-tutorials)
+- [Videos](#videos)
 - [Templates](#templates)
 - [Projects running Nova](#sites-running-nova)
 - [Looking for more?](#looking-for-more)
@@ -53,9 +54,9 @@ Add yours to the list, make a PR!
 * (2018-08-23) [Deep Diving Laravel Nova](https://medium.com/@nickjbasile/deep-diving-laravel-nova-6eb413a081ee)
 
 ## Videos
-* (2018-08-23) [Building my first Laravel Nova Package - Matt Stauffer] (https://www.youtube.com/watch?v=rgbdlVleH0M) 
-* (2018-08-23) [Building my first Laravel Nova Package (part 2) - Matt Stauffer] (https://www.youtube.com/watch?v=-Rmm2m_0f_Y) 
-* (2018-08-23) [Matt Stauffer Twitch] (https://www.twitch.tv/mattstauffer/videos/all)
+* (2018-08-23) [Building my first Laravel Nova Package - Matt Stauffer](https://www.youtube.com/watch?v=rgbdlVleH0M) 
+* (2018-08-23) [Building my first Laravel Nova Package (part 2) - Matt Stauffer](https://www.youtube.com/watch?v=-Rmm2m_0f_Y) 
+* (2018-08-23) [Matt Stauffer Twitch](https://www.twitch.tv/mattstauffer/videos/all)
 
 ## Templates
 Add yours to the list, make a PR!
