@@ -57,6 +57,7 @@ Add yours to the list, make a PR!
 
 ## Others
 * [Nova Package Skeleton Generator](https://github.com/spatie/skeleton-nova-tool)
+* [Localization files for Nova](https://github.com/franzdumfart/laravel-nova-localizations)
 
 ## Sites Running Nova
 Add yours to the list, make a PR!
