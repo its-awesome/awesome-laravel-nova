@@ -134,6 +134,7 @@ Add yours to the list, make a PR!
 * [Failed Job Tool](https://novapackages.com/packages/kregel/nova-failed-jobs-tool)
 * [Nova Toggle Switch](https://novapackages.com/packages/naif/toggle)
 * [Multiple Custom Dashboards](https://novapackages.com/packages/alexbowers/nova-multiple-dashboard)
+* [Nova Stripe Theme](https://novapackages.com/packages/jameslkingsley/nova-stripe-theme)
 
 ## Articles and Tutorials
 * (2018-07-25) [Introducing Laravel Nova by Laravel News](https://laravel-news.com/laravel-nova)
