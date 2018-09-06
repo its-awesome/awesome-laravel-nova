@@ -137,6 +137,7 @@ Add yours to the list, make a PR!
 * [Nova Stripe Theme](https://novapackages.com/packages/jameslkingsley/nova-stripe-theme)
 * [HTML View Field](https://novapackages.com/packages/treestoneit/html)
 * [Collapsable Grouped Resources](https://novapackages.com/packages/alexbowers/nova-categorise-resources)
+* [Nova Releases](https://novapackages.com/packages/tightenco/nova-releases)
 
 ## Articles and Tutorials
 * (2018-07-25) [Introducing Laravel Nova by Laravel News](https://laravel-news.com/laravel-nova)
