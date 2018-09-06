@@ -138,6 +138,7 @@ Add yours to the list, make a PR!
 * [HTML View Field](https://novapackages.com/packages/treestoneit/html)
 * [Collapsable Grouped Resources](https://novapackages.com/packages/alexbowers/nova-categorise-resources)
 * [Nova Releases](https://novapackages.com/packages/tightenco/nova-releases)
+* [JSON Field](https://novapackages.com/packages/64robots/nova-json)
 
 ## Articles and Tutorials
 * (2018-07-25) [Introducing Laravel Nova by Laravel News](https://laravel-news.com/laravel-nova)
