@@ -135,6 +135,7 @@ Add yours to the list, make a PR!
 * [Nova Toggle Switch](https://novapackages.com/packages/naif/toggle)
 * [Multiple Custom Dashboards](https://novapackages.com/packages/alexbowers/nova-multiple-dashboard)
 * [Nova Stripe Theme](https://novapackages.com/packages/jameslkingsley/nova-stripe-theme)
+* [HTML View Field](https://novapackages.com/packages/treestoneit/html)
 
 ## Articles and Tutorials
 * (2018-07-25) [Introducing Laravel Nova by Laravel News](https://laravel-news.com/laravel-nova)
