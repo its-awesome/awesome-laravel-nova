@@ -136,6 +136,7 @@ Add yours to the list, make a PR!
 * [Multiple Custom Dashboards](https://novapackages.com/packages/alexbowers/nova-multiple-dashboard)
 * [Nova Stripe Theme](https://novapackages.com/packages/jameslkingsley/nova-stripe-theme)
 * [HTML View Field](https://novapackages.com/packages/treestoneit/html)
+* [Collapsable Grouped Resources](https://novapackages.com/packages/alexbowers/nova-categorise-resources)
 
 ## Articles and Tutorials
 * (2018-07-25) [Introducing Laravel Nova by Laravel News](https://laravel-news.com/laravel-nova)
