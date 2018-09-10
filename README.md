@@ -148,7 +148,7 @@ Add yours to the list, make a PR!
 * (2018-08-23) [Installing Laravel Nova From a Private Repository](https://medium.com/@jimwright_93568/installing-laravel-nova-from-a-private-repository-11ed5e929d32)
 * (2018-08-22) [Common problems when setting up Laravel Nova](https://medium.com/@franz_40702/common-problems-when-setting-up-laravel-nova-fcd651731cc8)
 * (2018-08-23) [Deep Diving Laravel Nova](https://medium.com/@nickjbasile/deep-diving-laravel-nova-6eb413a081ee)
-
+* (2018-09-06) [Einfache Administration mit Laraval Nova](https://orlyapps.de/blog/web/einfache-administration-mit-laravel-nova) (German)
 ## Videos
 * (2018-08-23) [Building my first Laravel Nova Package - Matt Stauffer](https://www.youtube.com/watch?v=rgbdlVleH0M) 
 * (2018-08-23) [Building my first Laravel Nova Package (part 2) - Matt Stauffer](https://www.youtube.com/watch?v=-Rmm2m_0f_Y) 
