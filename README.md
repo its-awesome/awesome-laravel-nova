@@ -139,6 +139,14 @@ Add yours to the list, make a PR!
 * [Collapsable Grouped Resources](https://novapackages.com/packages/alexbowers/nova-categorise-resources)
 * [Nova Releases](https://novapackages.com/packages/tightenco/nova-releases)
 * [JSON Field](https://novapackages.com/packages/64robots/nova-json)
+* [Nova Unique Ajax Field](https://novapackages.com/packages/epartment/nova-unique-ajax-field)
+* [UploadCare Image Field](https://novapackages.com/packages/Adnan%20Chowdhury/uploadcare-image)
+* [Nova Field Dependency Container](https://novapackages.com/packages/epartment/nova-dependency-container)
+* [Sortable Field](https://novapackages.com/packages/naxon/nova-field-sortable)
+* [Notifications](https://novapackages.com/packages/christophrumpel/nova-notifications)
+* [Impersonate](https://novapackages.com/packages/kabbouchi/nova-impersonate)
+* [Blockchain Exchange Rates](https://novapackages.com/packages/kristories/nova-blockchain-exchange-rates)
+* [Intercom Viewer](https://novapackages.com/packages/itainathaniel/nova-intercom-viewer)
 
 ## Articles and Tutorials
 * (2018-07-25) [Introducing Laravel Nova by Laravel News](https://laravel-news.com/laravel-nova)
