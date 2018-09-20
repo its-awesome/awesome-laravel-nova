@@ -147,6 +147,11 @@ Add yours to the list, make a PR!
 * [Impersonate](https://novapackages.com/packages/kabbouchi/nova-impersonate)
 * [Blockchain Exchange Rates](https://novapackages.com/packages/kristories/nova-blockchain-exchange-rates)
 * [Intercom Viewer](https://novapackages.com/packages/itainathaniel/nova-intercom-viewer)
+* [Nova Password Generation Field](https://novapackages.com/packages/naif/generate-password)
+* [Nova Polymorphic Field](https://novapackages.com/packages/michielkempen/nova-polymorphic-field)
+* [Nova Horizon Link](https://novapackages.com/packages/alexpgates/horizon-link)
+* [Nova Timenow](https://novapackages.com/packages/richardkeep/nova-timenow)
+* [Nova Essentials](https://novapackages.com/packages/jameslkingsley/nova-essentials)
 
 ## Articles and Tutorials
 * (2018-07-25) [Introducing Laravel Nova by Laravel News](https://laravel-news.com/laravel-nova)
