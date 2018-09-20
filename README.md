@@ -168,7 +168,7 @@ Add yours to the list, make a PR!
 * (2018-08-23) [Matt Stauffer Twitch](https://www.twitch.tv/mattstauffer/videos/all)
 
 ## Templates
-Add yours to the list, make a PR!
+* [Laravel Nova Responsive Theme](https://github.com/gregoriohc/laravel-nova-theme-responsive)
 
 ## Others
 * [Nova Package Skeleton Generator](https://github.com/spatie/skeleton-nova-tool)
