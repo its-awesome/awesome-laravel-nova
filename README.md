@@ -164,6 +164,8 @@ Add yours to the list, make a PR!
 * [Laravel Nova Permissions Tool (ACL)](https://novapackages.com/packages/silvanite/novatoolpermissions)
 * [JSON Schema Field](https://novapackages.com/packages/nsavinov/nova-json-schema-field)
 * [line-chart](https://novapackages.com/packages/charts/nova-line-chart)
+* [Nova Server Metrics](https://novapackages.com/packages/llaski/nova-server-metrics)
+* [create-nova-cli](https://novapackages.com/packages/codeitlikemiley/create-nova)
 
 ## Articles and Tutorials
 * (2018-07-25) [Introducing Laravel Nova by Laravel News](https://laravel-news.com/laravel-nova)
