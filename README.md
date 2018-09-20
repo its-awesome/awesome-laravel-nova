@@ -134,7 +134,6 @@ Add yours to the list, make a PR!
 * [Failed Job Tool](https://novapackages.com/packages/kregel/nova-failed-jobs-tool)
 * [Nova Toggle Switch](https://novapackages.com/packages/naif/toggle)
 * [Multiple Custom Dashboards](https://novapackages.com/packages/alexbowers/nova-multiple-dashboard)
-* [Nova Stripe Theme](https://novapackages.com/packages/jameslkingsley/nova-stripe-theme)
 * [HTML View Field](https://novapackages.com/packages/treestoneit/html)
 * [Collapsable Grouped Resources](https://novapackages.com/packages/alexbowers/nova-categorise-resources)
 * [Nova Releases](https://novapackages.com/packages/tightenco/nova-releases)
@@ -169,6 +168,7 @@ Add yours to the list, make a PR!
 
 ## Templates
 * [Laravel Nova Responsive Theme](https://github.com/gregoriohc/laravel-nova-theme-responsive)
+* [Nova Stripe Theme](https://novapackages.com/packages/jameslkingsley/nova-stripe-theme)
 
 ## Others
 * [Nova Package Skeleton Generator](https://github.com/spatie/skeleton-nova-tool)
