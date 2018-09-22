@@ -166,6 +166,11 @@ Add yours to the list, make a PR!
 * [line-chart](https://novapackages.com/packages/charts/nova-line-chart)
 * [Nova Server Metrics](https://novapackages.com/packages/llaski/nova-server-metrics)
 * [create-nova-cli](https://novapackages.com/packages/codeitlikemiley/create-nova)
+* [Nova Honeybadger](https://novapackages.com/packages/honeybadger-io/nova-honeybadger)
+* [Simple Status Card](https://novapackages.com/packages/devtropolis/nova-simple-status-card)
+* [Nova Import Card](https://novapackages.com/packages/sparclex/nova-import-card)
+* [payamsms](https://novapackages.com/packages/pgsavis/payamsms)
+* [Date Filter](https://novapackages.com/packages/64robots/nova-date-filter)
 
 ## Articles and Tutorials
 * (2018-07-25) [Introducing Laravel Nova by Laravel News](https://laravel-news.com/laravel-nova)
