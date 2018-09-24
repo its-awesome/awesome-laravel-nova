@@ -171,6 +171,7 @@ Add yours to the list, make a PR!
 * [Nova Import Card](https://novapackages.com/packages/sparclex/nova-import-card)
 * [payamsms](https://novapackages.com/packages/pgsavis/payamsms)
 * [Date Filter](https://novapackages.com/packages/64robots/nova-date-filter)
+* [Cloudinary Image Field](https://novapackages.com/packages/silvanite/nova-field-cloudinary)
 
 ## Articles and Tutorials
 * (2018-07-25) [Introducing Laravel Nova by Laravel News](https://laravel-news.com/laravel-nova)
@@ -189,6 +190,7 @@ Add yours to the list, make a PR!
 ## Templates
 * [Laravel Nova Responsive Theme](https://github.com/gregoriohc/laravel-nova-theme-responsive)
 * [Nova Stripe Theme](https://novapackages.com/packages/jameslkingsley/nova-stripe-theme)
+* [Laravel Nova Classify Theme](https://novapackages.com/packages/gregoriohc/laravel-nova-theme-classify)
 
 ## Others
 * [Nova Package Skeleton Generator](https://github.com/spatie/skeleton-nova-tool)
