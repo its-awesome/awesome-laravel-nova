@@ -172,6 +172,7 @@ Add yours to the list, make a PR!
 * [payamsms](https://novapackages.com/packages/pgsavis/payamsms)
 * [Date Filter](https://novapackages.com/packages/64robots/nova-date-filter)
 * [Cloudinary Image Field](https://novapackages.com/packages/silvanite/nova-field-cloudinary)
+* [Nova Setting Tool](https://novapackages.com/packages/cendekia/nova-setting-tool)
 
 ## Articles and Tutorials
 * (2018-07-25) [Introducing Laravel Nova by Laravel News](https://laravel-news.com/laravel-nova)
