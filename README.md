@@ -173,6 +173,8 @@ Add yours to the list, make a PR!
 * [Date Filter](https://novapackages.com/packages/64robots/nova-date-filter)
 * [Cloudinary Image Field](https://novapackages.com/packages/silvanite/nova-field-cloudinary)
 * [Nova Setting Tool](https://novapackages.com/packages/cendekia/nova-setting-tool)
+* [Mixcloud Field](https://novapackages.com/packages/nkootstra/nova-mixcloud-field)
+* [Novassport](https://novapackages.com/packages/kristories/novassport)
 
 ## Articles and Tutorials
 * (2018-07-25) [Introducing Laravel Nova by Laravel News](https://laravel-news.com/laravel-nova)
