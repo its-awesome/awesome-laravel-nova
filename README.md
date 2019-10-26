@@ -139,7 +139,7 @@ Add yours to the list, make a PR!
 * [Nova Releases](https://novapackages.com/packages/tightenco/nova-releases)
 * [JSON Field](https://novapackages.com/packages/64robots/nova-json)
 * [Nova Unique Ajax Field](https://novapackages.com/packages/epartment/nova-unique-ajax-field)
-* [UploadCare Image Field](https://novapackages.com/packages/Adnan%20Chowdhury/uploadcare-image)
+* [UploadCare Image Field](https://bitbucket.org/adnanchowdhury/nova-uploadcare-imagefield/src/master/)
 * [Nova Field Dependency Container](https://novapackages.com/packages/epartment/nova-dependency-container)
 * [Sortable Field](https://novapackages.com/packages/naxon/nova-field-sortable)
 * [Notifications](https://novapackages.com/packages/christophrumpel/nova-notifications)
