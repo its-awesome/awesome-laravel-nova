@@ -25,6 +25,7 @@ Have you found something that make Laravel Nova more awesome? Submit a PR and ad
 Add yours to the list, make a PR!
 
 ## Packages
+* [Making Nova Tab Translatable](https://github.com/kongulov/nova-tab-translatable)
 * [Laravel Nova / Laravel Cashier](https://github.com/themsaid/nova-cashier-manager)
 * [A Laravel Nova tool to backup your application](https://github.com/spatie/nova-backup-tool)
 * [A Laravel Nova tool to display the application log](https://github.com/spatie/nova-tail-tool)
